@@ -4,10 +4,9 @@
 ## Major Things
 * The Dwarf Origin from Medieval Origins needs to be ported to this datapack.
 * The Brick Golem Origin is unfinished.
+* The Rat Origin is unfinished.
 * Multiple people do not have their origins yet.
 
 ## Minor Changes
 * The *Soul Spooked* power from Extra Origins is too weakening, and a) needs to be ported to this datapack, and b) needs to be toned down.
 * The Pixie Origin should be incapable of wearing Iron armor (though not using iron tools).
-* The Brick Golem Origin should be able to wear some armor.
-* The Brick Golem Origin should be able to sprint.
