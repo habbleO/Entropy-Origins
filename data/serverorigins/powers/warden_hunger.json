@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "name": "Big Boy Needs big Foods",
+  "description": "You need to eat 50% more than your average human.",
+  "modifier": {
+    "name": "Origin modifier",
+    "operation": "multiply_base",
+    "value": 1.5
+  }
+}

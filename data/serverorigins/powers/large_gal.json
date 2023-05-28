@@ -1,0 +1,9 @@
+{
+  "type": "origins:multiple",
+  "name": "Large Gal",
+  "description": "Your body is naturally taller.",
+  "modify_size": {
+    "type": "extraorigins:modify_size",
+    "scale": 1.25
+  }
+}

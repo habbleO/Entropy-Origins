@@ -1,0 +1,29 @@
+{
+  "type": "origins:multiple",
+  "name": "Bricky Body",
+  "description": "You cannot wear armor",
+  "attribute_modifiers":
+  {
+    "type": "origins:restrict_armor",
+  "head": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "chest": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "legs": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "feet": {
+    "type": "origins:armor_value",
+    "comparison": ">",
+    "compare_to": 0
+  }
+  }
+}

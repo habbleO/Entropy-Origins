@@ -1,0 +1,15 @@
+{
+  "type": "origins:action_over_time",
+  "name": "XP is Power",
+  "description": "At level thirty, you gain a 1.5x boost to attack damage",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "scale set pehkui:attack 1.3 @s"
+  },
+  "condition": {
+    "type": "origins:xp_levels",
+    "comparison": ">=",
+    "compare_to": 30
+  },
+  "interval": 1
+}

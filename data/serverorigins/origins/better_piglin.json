@@ -1,0 +1,18 @@
+{
+  "powers": [
+    "origins:fire_immunity",
+    "serverorigins:slow_swimmer",
+    "serverorigins:piglin_neutrality",
+    "serverorigins:piglin_body",
+    "serverorigins:piglin_strength",
+    "extraorigins:all_that_glitters",
+    "extraorigins:crossbow_master",
+    "extraorigins:soul_spooked",
+    "origins:no_shield"
+  ],
+  "icon": "minecraft:crossbow",
+  "order": 10,
+  "impact": 3,
+  "name": "Better Piglin",
+  "description": "Piglin Piglin Piglin Piglin Piglin Piglin Piglin Piglin Piglin Piglin Piglin"
+}

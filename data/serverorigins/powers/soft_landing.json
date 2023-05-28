@@ -1,0 +1,21 @@
+{
+  "type": "origins:multiple",
+  "name": "Soft Landing",
+  "description": "You take no fall damage.",
+  "damage_immunity": {
+    "type": "origins:invulnerability",
+    "damage_condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:name",
+          "name": "fall"
+        },
+        {
+          "type": "origins:name",
+          "name": "flyIntoWall"
+        }
+      ]
+    }
+  }
+}

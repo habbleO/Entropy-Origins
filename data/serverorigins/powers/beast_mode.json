@@ -1,0 +1,47 @@
+{
+	"name": "Beast Mode",
+	"description": "You can use your ability button to give yourself Strength I for 20 seconds, but with blindness and slowness",
+  
+"type": "origins:multiple",
+
+    "toggle": {
+        "type": "origins:toggle",
+        "active_by_default": false,
+        "key": {
+            "key": "key.origins.primary_active"
+        }
+    },
+	
+
+   "stacking": {
+    "type": "origins:stacking_status_effect",
+   "min_stacks": 1,
+    "max_stacks": 3,
+    "duration_per_stack": 20,
+	"tick_rate": 10,
+    "effects": [
+        {
+            "effect": "minecraft:strength",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        },
+		{
+            "effect": "minecraft:blindness",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        },
+		{
+            "effect": "minecraft:speed",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": false
+        }
+    ],
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_toggle"
+        }
+    }
+}

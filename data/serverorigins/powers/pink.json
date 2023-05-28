@@ -1,0 +1,9 @@
+{
+  "type": "origins:model_color",
+  "name": "Pink!",
+  "description": "You have a cute pink tint, and are slightly translucent.",
+  "red": 1.0,
+  "green": 0.93,
+  "blue": 0.93,
+  "alpha": 0.70
+}

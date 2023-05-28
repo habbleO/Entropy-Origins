@@ -1,0 +1,13 @@
+{
+  "powers": [
+	"serverorigins:rat_body",
+	"serverorigins:big_jump",
+	"origins:hunger_over_time",
+	"origins:fall_immunity"
+  ],
+  "icon": "minecraft:string",
+  "order": 10,
+  "impact": 3,
+  "name": "Rat",
+  "description": "Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat Rat"
+}

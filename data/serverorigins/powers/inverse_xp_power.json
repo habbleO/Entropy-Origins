@@ -1,0 +1,14 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:execute_command",
+    "command": "scale set pehkui:attack 1 @s"
+  },
+  "condition": {
+    "type": "origins:xp_levels",
+    "comparison": "<",
+    "compare_to": 30
+  },
+  "interval": 1,
+  "hidden": true
+}

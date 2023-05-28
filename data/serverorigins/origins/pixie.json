@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"serverorigins:flight",
+		"serverorigins:soft_landing",
+		"serverorigins:tiny_gal",
+		"serverorigins:sweet_tooth",
+		"serverorigins:pink",
+		"serverorigins:soaked",
+		"serverorigins:wet_wings",
+		"serverorigins:weak_melee"
+	],
+	"icon": "minecraft:elytra",
+	"order": 10,
+	"impact": 3,
+	"name": "Fairy",
+	"description": "A cute little fairy!"
+}

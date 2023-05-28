@@ -1,0 +1,19 @@
+{
+  "powers": [
+    "serverorigins:chad_body",
+    "serverorigins:too_big",
+    "serverorigins:beast_mode",
+    "serverorigins:large_warden",
+    "serverorigins:xp_power",
+    "serverorigins:inverse_xp_power",
+    "serverorigins:warden_hunger",
+    "serverorigins:natural_armor",
+	"serverorigins:cool_sounds",
+    "serverorigins:meaty_diet"
+  ],
+  "icon": "minecraft:end_portal_frame",
+  "order": 10,
+  "impact": 3,
+  "name": "Better Warden",
+  "description": "Warden Warden Warden Warden Warden Warden Warden Warden Warden Warden Warden Warden Warden "
+}

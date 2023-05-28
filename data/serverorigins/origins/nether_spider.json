@@ -1,0 +1,17 @@
+{
+  "powers": [
+    "origins:nether_spawn",
+    "origins:climbing",
+    "origins:fire_immunity",
+    "origins:natural_armor",
+    "serverorigins:hungry_gal",
+    "serverorigins:cannot_jump",
+    "serverorigins:large_gal",
+    "serverorigins:slow_swimmer"
+  ],
+  "icon": "minecraft:nether_bricks",
+  "order": 10,
+  "impact": 3,
+  "name": "Brick Golem",
+  "description": "Big girl with big bricks"
+}

@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "origins:shulker_inventory",
+	"origins:aqua_affinity",
+	"origins:vegetarian",
+	"origins:like_water",
+	"serverorigins:crabby_body",
+	"origins:natural_armor"
+  ],
+  "icon": "minecraft:tube_coral_block",
+  "order": 10,
+  "impact": 2,
+  "name": "Hermit Crab",
+  "description": "Just a little guy ^w^"
+}

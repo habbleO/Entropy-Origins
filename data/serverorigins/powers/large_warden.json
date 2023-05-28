@@ -1,0 +1,8 @@
+{
+  "type": "origins:multiple",
+  "modify_size": {
+    "type": "extraorigins:modify_size",
+    "scale": 1.6
+  },
+  "hidden": true
+}
