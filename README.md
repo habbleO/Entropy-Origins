@@ -46,4 +46,4 @@ These are the custom origins made for the Entropy SMP:
 ### Rat (Currently Unfinished!)
 * You are very small, and do not take fall damage
 * You can launch yourself with a big jump
-* You need more food than normal (Currently broken)
+* You need more food than normal
