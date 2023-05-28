@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "name": "Rat Hunger",
+  "description": "You need to eat 30% more than your average human.",
+  "modifier": {
+    "name": "Origin modifier",
+    "operation": "multiply_base",
+    "value": 1.3
+  }
+}

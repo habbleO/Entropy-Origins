@@ -2,7 +2,7 @@
   "powers": [
 	"serverorigins:rat_body",
 	"serverorigins:big_jump",
-	"origins:hunger_over_time",
+	"serverorigins:rat_hunger",
 	"origins:fall_immunity"
   ],
   "icon": "minecraft:string",
