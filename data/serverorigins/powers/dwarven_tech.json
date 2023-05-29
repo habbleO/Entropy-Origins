@@ -2,6 +2,6 @@
   "type": "origins:modify_break_speed",
   "modifier": {
     "operation": "multiply_base",
-    "value": 1.25
+    "value": 1.15
   }
 }

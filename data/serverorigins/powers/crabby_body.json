@@ -25,7 +25,7 @@
         "name": "Origin modifier",
         "attribute": "minecraft:generic.movement_speed",
         "operation": "addition",
-        "value": -0.05
+        "value": 0.025
       },
       {
         "name": "Origin modifier",
