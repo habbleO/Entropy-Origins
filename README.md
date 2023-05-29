@@ -21,14 +21,6 @@ These are the custom origins made for the Entropy SMP:
 * Having more than 30 levels grants you a 1.3x attack bonus
 * Your active ability gives you speed, strength, and blindness
 
-### Brick Golem (Currently Unfinished!)
-* You are immune to fire and lava
-* You cannot eat meat.
-* You have 13 points of natural armor
-* You cannot sprint
-* You cannot wear armor
-* You are slightly taller
-
 ### Hermit Crab
 * You have 9 spots of extra inventory space
 * You have aqua affinity by default
@@ -43,7 +35,25 @@ These are the custom origins made for the Entropy SMP:
 * Being in water or rain makes it so you cannot fly
 * You have a weaker melee attack
 
+### Dwarf
+* Your primary ability gives you a strong regeneration effect
+* You are able to mine 25% faster
+* You are much smaller, but have higher reach
+* You can mine and gather natural stone without a pickaxe
+* You gain night vision when not in the sunlight
+* You gain blindness when in the sun
+* If you wear a helmet in the sun, you burn instead of being blinded
+* You sink in water
+
 ### Rat (Currently Unfinished!)
 * You are very small, and do not take fall damage
 * You can launch yourself with a big jump
 * You need more food than normal
+
+### Brick Golem (Currently Unfinished!)
+* You are immune to fire and lava
+* You cannot eat meat.
+* You have 13 points of natural armor
+* You cannot sprint
+* You cannot wear armor
+* You are slightly taller
