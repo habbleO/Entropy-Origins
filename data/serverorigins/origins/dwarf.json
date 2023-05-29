@@ -1,0 +1,17 @@
+{
+  "powers": [
+    "serverorigins:potent_brew",
+    "serverorigins:pickaxeless_stone",
+    "serverorigins:photoallergic",
+    "serverorigins:nocturnal_eyes",
+    "serverorigins:dense",
+    "serverorigins:darkness_dweller",
+    "serverorigins:miniature",
+    "serverorigins:dwarven_tech"
+  ],
+  "icon": "minecraft:cobblestone",
+  "order": 10,
+  "impact": 3,
+  "name": "Dwarf",
+  "description": "A fork of the Dwarf from Medieval Origins, since it keeps crashing"
+}
