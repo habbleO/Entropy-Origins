@@ -7,7 +7,7 @@
     "serverorigins:piglin_strength",
     "extraorigins:all_that_glitters",
     "extraorigins:crossbow_master",
-    "extraorigins:soul_spooked",
+    "serverorigins:soul_spooked",
     "origins:no_shield"
   ],
   "icon": "minecraft:crossbow",
