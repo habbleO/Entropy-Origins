@@ -8,4 +8,3 @@
 
 ## Minor Changes
 * The Pixie Origin should be incapable of wearing Iron armor (though not using iron tools).
-* The Dwarf Origin has not being properly balanced and tested.

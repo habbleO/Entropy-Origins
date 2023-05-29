@@ -37,7 +37,7 @@ These are the custom origins made for the Entropy SMP:
 
 ### Dwarf
 * Your primary ability gives you a strong regeneration effect
-* You are able to mine 25% faster
+* You are able to mine 15% faster
 * You are much smaller, but have higher reach
 * You can mine and gather natural stone without a pickaxe
 * You gain night vision when not in the sunlight
