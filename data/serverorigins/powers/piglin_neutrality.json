@@ -1,4 +1,6 @@
 {
+  "name": "Piglin Neutrality",
+  "description": "Piglins are neutral towards you.",
   "type": "extraorigins:mob_neutrality",
   "entity_types": [
     "minecraft:piglin",

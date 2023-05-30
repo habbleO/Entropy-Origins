@@ -1,4 +1,6 @@
 {
+  "name": "Piglin Body",
+  "description": "You are slightly taller, but have less health.",
   "type": "origins:multiple",
   "modify_size": {
     "type": "extraorigins:modify_size",

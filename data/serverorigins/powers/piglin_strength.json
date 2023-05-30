@@ -1,4 +1,6 @@
 {
+  "name": "Piglin Strength",
+  "description": "You deal slightly more attack damage.",
   "type": "origins:attribute",
   "modifier":{
     "attribute": "minecraft:generic.attack_damage",
