@@ -1,5 +1,5 @@
 {
   "type": "origins:prevent_sprinting",
-  "name": "slow",
-  "description": "You cannot sprint"
+  "name": "Slow",
+  "description": "You cannot sprint."
 }

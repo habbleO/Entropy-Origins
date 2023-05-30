@@ -53,7 +53,10 @@ These are the custom origins made for the Entropy SMP:
 ### Brick Golem (Currently Unfinished!)
 * You are immune to fire and lava
 * You cannot eat meat.
-* You have 13 points of natural armor
+* You have 20 points of natural armor
+* You have 10 points of extra health
+* You are 10% faster
 * You cannot sprint
 * You cannot wear armor
-* You are slightly taller
+* You can change your size with the primary action.
+* You sink in water

@@ -1,7 +1,7 @@
 {
   "type": "origins:multiple",
   "name": "Tank",
-  "description": "You have more health and natural armor, but cant sprint",
+  "description": "You have more health and natural armor, and are slightly faster",
   "attribute_modifiers":
   {
     "type": "origins:attribute",
@@ -10,19 +10,19 @@
       {
         "name": "Monstrous Body health",
         "attribute": "generic.max_health",
-        "value": 5.0,
+        "value": 10.0,
         "operation": "addition"
       },
 	  {
 		"name": "Natural Armor health bonus",
 		"attribute": "minecraft:generic.armor",
-		"value": 5.0,
+		"value": 20.0,
 		"operation": "addition"
 	  },
       {
         "name": "Monstrous Body movement speed reduction",
         "attribute": "generic.movement_speed",
-        "value": -0.01,
+        "value": 0.1,
         "operation": "addition"
       }
   

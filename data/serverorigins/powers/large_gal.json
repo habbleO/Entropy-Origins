@@ -1,9 +1,20 @@
 {
-  "type": "origins:multiple",
   "name": "Large Gal",
-  "description": "Your body is naturally taller.",
+  "description": "You can make yourself bigger and smaller.",
+  "type": "origins:multiple",
+  "toggle": {
+    "type": "origins:toggle",
+    "active_by_default": false,
+    "key": {
+      "key": "key.origins.primary_active"
+    }
+  },
   "modify_size": {
     "type": "extraorigins:modify_size",
-    "scale": 1.25
+    "scale": 1.5,
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_toggle"
+    }
   }
 }
