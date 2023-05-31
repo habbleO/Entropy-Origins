@@ -6,7 +6,9 @@
 	"serverorigins:bricky_body",
 	"serverorigins:slow",
     "serverorigins:large_gal",
-    "serverorigins:dense"
+    "serverorigins:dense",
+    "serverorigins:fast_mining",
+    "serverorigins:bricky_mining"
   ],
   "icon": "minecraft:nether_bricks",
   "order": 10,
