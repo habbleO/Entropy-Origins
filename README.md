@@ -45,12 +45,7 @@ These are the custom origins made for the Entropy SMP:
 * If you wear a helmet in the sun, you burn instead of being blinded
 * You sink in water
 
-### Rat (Currently Unfinished!)
-* You are very small, and do not take fall damage
-* You can launch yourself with a big jump
-* You need more food than normal
-
-### Brick Golem (Currently Unfinished!)
+### Brick Golem
 * You are immune to fire and lava
 * You cannot eat meat.
 * You have 20 points of natural armor
@@ -60,3 +55,10 @@ These are the custom origins made for the Entropy SMP:
 * You cannot wear armor
 * You can change your size with the primary action.
 * You sink in water
+* You can break stone blocks, along with coal through gold ore, without a pickaxe
+* You mine 15% faster
+
+### Rat (Currently Unfinished!)
+* You are very small, and do not take fall damage
+* You can launch yourself with a big jump
+* You need more food than normal
