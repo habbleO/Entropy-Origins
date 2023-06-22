@@ -1,0 +1,10 @@
+{
+  "type": "origins:modify_exhaustion",
+  "name": "Snail Appetite",
+  "description": "You need to eat 50% more than your average human.",
+  "modifier": {
+    "name": "Origin modifier",
+    "operation": "multiply_base",
+    "value": 1.5
+  }
+}

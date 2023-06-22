@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "origins:natural_armor",
+    "origins:climbing",
+    "serverorigins:soft_landing",
+    "serverorigins:snail_appetite",
+    "serverorigins:snail_body"
+  ],
+  "icon": "minecraft:nautilus_shell",
+  "order": 11,
+  "impact": 3,
+  "name": "Snail",
+  "description": "Snail Snail Snail Snail"
+}
