@@ -62,3 +62,11 @@ These are the custom origins made for the Entropy SMP:
 * You are very small, and do not take fall damage
 * You can launch yourself with a big jump
 * You need more food than normal
+
+### Snail (Currently Unfinished!)
+* You are 1 block tall
+* You can climb blocks like ladders
+* You are immune to fall damage
+* You have 8 points of natural armor
+* You have 3 fewer hearts
+* You exhaust 50% quicker
