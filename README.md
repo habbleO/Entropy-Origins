@@ -53,7 +53,6 @@ These are the custom origins made for the Entropy SMP:
 * You cannot sprint
 * You cannot wear armor
 * You can change your size from 2 to 3 blocks tall with the primary action
-* You sink in water
 * You can break stone blocks, along with coal through gold ore, without a pickaxe
 * You mine 15% faster
 
