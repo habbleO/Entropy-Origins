@@ -5,7 +5,9 @@
 	"serverorigins:tank",
 	"serverorigins:bricky_body",
 	"serverorigins:slow",
-    "serverorigins:large_gal"
+    "serverorigins:large_gal",
+    "serverorigins:dense",
+    "serverorigins:extended_breathing",
     "serverorigins:fast_mining",
     "serverorigins:bricky_mining"
   ],
