@@ -50,7 +50,6 @@ These are the custom origins made for the Entropy SMP:
 * You cannot eat meat.
 * You have 20 points of natural armor
 * You have 10 points of extra health
-* You are 10% faster
 * You cannot sprint
 * You cannot wear armor
 * You can change your size from 2 to 3 blocks tall with the primary action

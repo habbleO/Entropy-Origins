@@ -18,13 +18,7 @@
 		"attribute": "minecraft:generic.armor",
 		"value": 20.0,
 		"operation": "addition"
-	  },
-      {
-        "name": "Monstrous Body movement speed reduction",
-        "attribute": "generic.movement_speed",
-        "value": 0.1,
-        "operation": "addition"
-      }
+	  }
   
     ]
   }
