@@ -9,6 +9,6 @@
     "comparison": "<",
     "compare_to": 30
   },
-  "interval": 1,
+  "interval": 20,
   "hidden": true
 }
