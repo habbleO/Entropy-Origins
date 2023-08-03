@@ -16,7 +16,7 @@
 	  {
 		"name": "Natural Armor health bonus",
 		"attribute": "minecraft:generic.armor",
-		"value": 20.0,
+		"value": 12.0,
 		"operation": "addition"
 	  }
   

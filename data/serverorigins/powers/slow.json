@@ -1,5 +1,23 @@
 {
-  "type": "origins:prevent_sprinting",
   "name": "Slow",
-  "description": "You cannot sprint."
+  "description": "You cannot sprint.",
+  "condition": {
+    "type": "origins:power_active",
+    "power": "serverorigins:large_gal"
+  },
+  "type": "origins:multiple",
+  "toggle": {
+    "type": "origins:toggle",
+    "active_by_default": false,
+    "key": {
+      "key": "key.origins.primary_active"
+    }
+  },
+  "prevent_sprinting": {
+    "type": "origins:prevent_sprinting",
+    "condition": {
+      "type": "origins:power_active",
+      "power": "*:*_toggle"
+    }
+  }
 }
