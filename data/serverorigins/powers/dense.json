@@ -1,3 +1,5 @@
 {
+  "name": "Dense",
+  "description": "You sink through water.",
   "type": "origins:ignore_water"
 }

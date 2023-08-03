@@ -1,7 +1,7 @@
 {
   "type": "origins:multiple",
   "name": "Bricky Body",
-  "description": "You cannot wear armor",
+  "description": "You cannot wear armor above chainmail.",
   "attribute_modifiers":
   {
     "type": "origins:restrict_armor",

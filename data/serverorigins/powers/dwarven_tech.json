@@ -1,4 +1,6 @@
 {
+  "name": "Dwarven Tech",
+  "description": "Your tools allow you to mine 15% faster.",
   "type": "origins:modify_break_speed",
   "modifier": {
     "operation": "multiply_base",

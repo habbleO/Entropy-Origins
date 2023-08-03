@@ -1,6 +1,6 @@
 {
   "name": "Soul Spooked",
-  "description": "You become weak near soul fire, soul torches, and other related blocks.",
+  "description": "You become weak and fast near soul fire, soul torches, and other related blocks.",
   "type": "origins:stacking_status_effect",
   "condition": {
     "type": "origins:block_in_radius",
@@ -13,6 +13,22 @@
   "min_stacks": 0,
   "max_stacks": 1,
   "duration_per_stack": 30,
+  "effects": [
+    {
+        "effect": "minecraft:weakness",
+        "amplifier": 1,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": false
+    },
+    {
+        "effect": "minecraft:speed",
+        "amplifier": 1,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": false
+    }
+  ],
   "effect": {
     "effect": "minecraft:weakness",
     "amplifier": 1,

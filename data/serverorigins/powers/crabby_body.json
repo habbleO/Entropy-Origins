@@ -1,7 +1,7 @@
 {
   "type": "origins:multiple",
   "name": "Crabby Body",
-  "description": "You are smaller, but can move faster",
+  "description": "You are smaller, but can move faster.",
   "modify_size": {
     "type": "extraorigins:modify_size",
     "scale": 0.35

@@ -1,4 +1,6 @@
 {
+  "name": "Brick Hands",
+  "description": "You can mine stone through gold ore with your bare hands.",
   "type": "origins:modify_harvest",
   "hidden": "true",
   "allow": true,

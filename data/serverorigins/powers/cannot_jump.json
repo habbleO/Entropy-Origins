@@ -1,7 +1,7 @@
 {
   "type": "origins:modify_jump",
   "name": "Can't Jump",
-  "description": "Your legs do not allow for you to jump normally",
+  "description": "Your legs do not allow for you to jump normally.",
   "modifier": {
     "operation": "addition",
     "value": -1.0
