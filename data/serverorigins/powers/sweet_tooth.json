@@ -1,7 +1,9 @@
 {
+  "name": "Sweet Tooth",
+  "description": "You gain less hunger and saturation from meat",
   "type": "origins:modify_food",
   "item_condition": {
-    "type": "origins:meat",
+    "type": "origins:meat"
   },
   "food_modifier": {
     "name": "Increased food points",

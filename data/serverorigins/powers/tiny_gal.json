@@ -1,4 +1,6 @@
 {
+  "name": "Tiny Gal",
+  "description": "You are smaller, have less max health, attack speed, and attack range. You also cannot jump as high.",
   "type": "origins:multiple",
   "modify_size": {
     "type": "extraorigins:modify_size",

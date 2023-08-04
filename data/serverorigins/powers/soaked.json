@@ -1,8 +1,10 @@
 {
+  "name": "Soaked",
+  "description": "You are unable to fly in the rain or water.",
   "type": "origins:multiple",
   "slow_movement": {
     "type": "origins:conditioned_attribute",
-    "modifer": {
+    "modifier": {
       "attribute": "minecraft:generic.movement_speed",
       "operation": "multiply_total",
       "value": 0.66

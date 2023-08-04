@@ -1,6 +1,6 @@
 {
   "name": "Slow",
-  "description": "You cannot sprint.",
+  "description": "You cannot sprint when you are big.",
   "condition": {
     "type": "origins:power_active",
     "power": "serverorigins:large_gal"

@@ -1,4 +1,6 @@
 {
+  "name": "Miniature",
+  "description": "You are slightly smaller than your average human",
   "type": "origins:multiple",
   "modify_size": {
     "type": "extraorigins:modify_size",

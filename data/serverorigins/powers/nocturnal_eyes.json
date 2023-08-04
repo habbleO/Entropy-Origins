@@ -1,4 +1,6 @@
 {
+  "name": "Nocturnal Eyes",
+  "description": "You gain night vision when not exposed to the sun",
   "type": "origins:action_over_time",
   "entity_action": {
     "type": "origins:if_else",

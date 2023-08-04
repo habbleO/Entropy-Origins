@@ -1,4 +1,6 @@
 {
+  "name": "Photoallergic",
+  "description": "You burn when exposed to the sun and not wearing a helmet.",
   "type": "origins:burn",
   "interval": 20,
   "burn_duration": 6,

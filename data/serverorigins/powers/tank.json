@@ -1,7 +1,7 @@
 {
   "type": "origins:multiple",
   "name": "Tank",
-  "description": "You have more health and natural armor",
+  "description": "You have more health and natural armor.",
   "attribute_modifiers":
   {
     "type": "origins:attribute",

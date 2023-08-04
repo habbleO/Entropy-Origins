@@ -1,4 +1,6 @@
 {
+  "name": "Pickaxeless Stone",
+  "description": "You can mine stone blocks without a pickaxe.",
   "type": "origins:modify_harvest",
   "hidden": "true",
   "allow": true,

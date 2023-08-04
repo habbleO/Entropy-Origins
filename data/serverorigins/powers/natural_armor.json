@@ -1,4 +1,6 @@
 {
+  "name": "Natural Armor",
+  "description": "You have 5 points of natural armor.",
   "type": "origins:attribute",
   "modifier": {
     "name": "Natural Armor health bonus",
