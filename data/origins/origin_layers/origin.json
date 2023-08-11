@@ -8,6 +8,7 @@
 	"serverorigins:rat",
     "serverorigins:better_piglin",
     "serverorigins:dwarf",
-    "serverorigins:snail"
+    "serverorigins:snail",
+    "serverorigins:ghost"
   ]
 }
